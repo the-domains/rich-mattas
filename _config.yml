@@ -2,6 +2,7 @@ name: Rich Mattas
 favicon: null
 layout_spectrum: 0.11597324372269213
 typography_spectrum: 0.10976862139068544
+title: Test Site
 cta:
   domain: null
   bucket: null
