@@ -1,0 +1,28 @@
+name: Rich Mattas
+favicon: null
+layout_spectrum: 0.11597324372269213
+typography_spectrum: 0.10976862139068544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9410597966052592
+  lightness: 0.2572026278357953
+  saturation: 0.6136421614792198
+  rhythmicContrast: 0.8593671899288893
+purpose: []
